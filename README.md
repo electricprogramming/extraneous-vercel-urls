@@ -1,0 +1,1 @@
+This is a repository used to steal unwanted/extraneous urls from my other vercel projects. I will add any urls like `projectname-git-branchname-usernamesprojects.vercel.app` to the project on Vercel that is linked to this, and it will steal them, hopefully making it the vercel 404 page like it should be.
